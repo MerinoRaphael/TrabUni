@@ -1,8 +1,5 @@
-# TrabUni
-Raphael Merino - Trabalho Univirtus
+Tive alguns problemas com o Maven na hora de gerar a API, não sei se foi por besteira minha ou se é a minha maquina mesma que esta faltando coisa. 
+Foi criado se criado uma classe Paciente para guardar os dados pessoais, e uma classe Usuario para guardar os dados se segurança.
 
-Tive alguns problemas com as mockit / junit, mesmo configurando elas no Gradle.Build não funcionaram de forma alguma. 
+Assim simulando como seria a interação do usuário no back-end. 
 
-No Trabalho em si, temos a separação do Back-end,
-Se temos as divisões em Modelos, Controladores e Repositórios definidos, assim como um Controle de Teste.
-Classes de Autoridade criam a definição de senha ("ADMIN" - "Admin123")
