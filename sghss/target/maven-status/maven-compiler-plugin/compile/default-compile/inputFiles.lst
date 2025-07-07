@@ -1,0 +1,11 @@
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\controller\AuthController.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\controller\PacienteController.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\dto\LoginRequest.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\dto\LoginResponse.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\model\Paciente.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\model\Usuario.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\repository\PacienteRepository.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\repository\UsuarioRepository.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\service\AuthService.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\service\PacienteService.java
+C:\Users\rache\Downloads\sghss\src\main\java\com\hospital\sghss\SghssApplication.java
